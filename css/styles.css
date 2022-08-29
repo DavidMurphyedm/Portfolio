@@ -1,0 +1,31 @@
+* {
+    font-family: 'Courgette', cursive;
+    font-family: 'Roboto', sans-serif;      
+}
+
+body{
+    background-color: #2e67f8;
+}
+
+nav, .nav{
+    background-color: yellow;
+}
+
+img
+{
+   width: 50%;
+   margin: auto;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+.grow { 
+    transition: all .2s ease-in-out; 
+}
+    
+.grow:hover { 
+    transform: scale(1.1); 
+}
