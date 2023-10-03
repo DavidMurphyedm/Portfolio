@@ -1,1 +1,4 @@
-davidmurphyedm.ca
+type = CNAME
+name = www
+value = davidmurphyedm.github.io
+
