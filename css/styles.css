@@ -4,12 +4,21 @@
 }
 
 body{
-    background-color: #2e67f8;
+    background-color: #f4f4f4;
 }
 
 nav, .nav{
-    background-color: yellow;
+    background-color:  lightslategray;
+    
+
 }
+.nav-link {
+    color: #fff;
+}
+
+.navbar a {
+    color: #fff;
+} 
 
 img
 {
@@ -19,7 +28,7 @@ img
 
 a, a:hover, a:focus, a:active {
     text-decoration: none;
-    color: inherit;
+    color: #000;
 }
 
 .grow { 
